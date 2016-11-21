@@ -1,5 +1,5 @@
 name 'GreetUser'
-maintainer 'The Authors'
+maintainer 'Pasumarthi Aswini Kumar'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures GreetUser'

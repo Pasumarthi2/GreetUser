@@ -7,6 +7,11 @@ Berksfile.lock
 .*.sw[a-z]
 *.un~
 
+#Certificates#
+##############
+.chef
+*/.chef
+
 # Bundler
 Gemfile.lock
 bin/*
